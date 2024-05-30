@@ -1,0 +1,53 @@
+This is an optional extra credit option for a maximum of 50 points.
+
+In your Documentation file, include a link to your YouTube demonstration video. Do not upload the video to Canvas. Do not email the instructor your Zip file.
+
+You can choose to do any one of the options below (even if you will do all options, you will only earn 50 points maximum): 
+----------------
+Option 1: Build a ChatGPT bot for Whatsapp, following the instructions from this website: https://buildspace.so/notes/build-chatgpt-whatsapp-bot    Links to an external site.
+----------------
+Option 2:  SMS chatbot with OpenAI and Twilio, following the instructions from this website: 
+https://www.twilio.com/blog/sms-chatbot-openai-python
+----------------
+Option 3:  Select and implement a webhook for one of the applications below from the left panel from this website https://ngrok.com/docs/integrations/    Links to an external site.  
+
+option 3a: Facebook Messenger
+option 3b: Facebook
+option 3c: GitHub
+option 3d: Twilio
+option 3e: WhatsApp
+option 3f: Zoom
+----------------
+Option 4: Conversational ChatBot, follow the instructions from this website:
+https://www.analyticsvidhya.com/blog/2021/10/complete-guide-to-build-your-ai-chatbot-with-nlp-in-python/ 
+----------------
+Option 5: Webscraping ChatBot, follow the instructions from this website:
+https://datasciencedojo.com/blog/voice-chatbot-python-web-scraping/
+Note at the end of this article, there is a link to code on GitHub. 
+----------------
+Option 6: Deploy a ChatBot using Tensorflow
+https://www.geeksforgeeks.org/deploy-a-chatbot-using-tensorflow-in-python/ 
+In Step 1, add 20 tags to make it answers the questions related to this website:
+https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/dl-id-online-app-edl-44/
+
+----------------
+Option 7: Ultralytics HUB
+If you are interested in extra credit and also earn credit for Lab 7, you can try the new Ultralytics HUB.
+
+Ultralytics HUB is new and allow AI training for custom pictures, and you can use it immediately on IOS/Android phones. https://www.ultralytics.com/hub
+
+If you choose to go through this path, you can earn double credit for both Lab 7 (instead of using the Ultralytics YOLO method) and another 50 points for extra credit.
+
+Your deliverables will be:
+
+Written Instructions in a form of a tutorial, similar to what I provided for your Labs
+Video recordings
+Dataset with the same images you used for your lab
+Proof that it works on the computer and phones. If you will do it in a group, make sure your group will run it on both IOS and Android phones. Document the steps to make it work on the phones.
+
+
+----------------
+Option 8: Redo Yolov8 image recognitions using Google Colab 
+
+You can leverage some steps from here but you will have to customize for the ee104 dataset and eventually run on your own computer withy the trained best.pt file to regcognize yourself from your computer local webcam.
+https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/train-yolov8-object-detection-on-custom-dataset.ipynb 
